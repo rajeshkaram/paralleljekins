@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[ChromeDriver: chrome on XP (90e586b769cf5b87b971d3465726dc4b)]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="127105" started-at="2018-10-10T22:25:23Z" finished-at="2018-10-10T22:27:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="127105" started-at="2018-10-10T22:25:23Z" finished-at="2018-10-10T22:27:30Z">
+      <class name="exe.Testbase">
+        <test-method status="PASS" signature="test()[pri:0, instance:exe.Testbase@1bcffb5]" name="test" duration-ms="126925" started-at="2018-10-11T03:55:23Z" finished-at="2018-10-11T03:57:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ChromeDriver: chrome on XP (90e586b769cf5b87b971d3465726dc4b)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- exe.Testbase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
